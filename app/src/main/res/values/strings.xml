@@ -8,11 +8,11 @@
     <string name="playlist_activity">Playlist</string>
     <string name="explain_1">This is where the current song will shown include the full details and action buttons</string>
     <string name="explain_2">This is current song with full details: name,album,playlist, and song actions:play,pause,forward,backwward,next,previous </string>
-    <string name="explain_3">This is where the Artist information present </string>
-    <string name="explain_4">This is where the Album information present </string>
-    <string name="explain_5">This is where the Playlist information present </string>
-    <string name="explain_6">This is where the Search screen present </string>
-    <string name="explain_7">This is where the Store screen present </string>
+    <string name="explain_3">This is where the Artist information present: name, birthday, list of albums etc </string>
+    <string name="explain_4">This is where the Album information present: year, producer etc </string>
+    <string name="explain_5">This is where the Playlist information present: create by who, tracklist </string>
+    <string name="explain_6">This is where the Search screen present, here the user will be able to search and discover artists, albums, tracks and more </string>
+    <string name="explain_7">This is where the Store screen present, the user can purchae via 3rd party PayPal/Other the items </string>
     <string name="artist_button">Artist</string>
     <string name="album_button">Album</string>
     <string name="store_button">Store</string>
